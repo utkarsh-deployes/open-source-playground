@@ -61,22 +61,6 @@ Maintainers may request changes before merging.
 
 ---
 
-## Contributor Expectations
-
-We welcome contributions from developers of all experience levels. To keep the project healthy and easy to maintain, please follow these guidelines:
-
-Quality: Ensure your code is clean, readable, and follows existing patterns in the project. Test your changes before submitting.
-
-Scope: Keep pull requests focused on a single issue or improvement. Avoid bundling unrelated changes.
-
-Communication: Clearly describe what you changed and why. If you are unsure about an approach, open an issue or discussion before starting.
-
-Professionalism: Be respectful and constructive in all interactions. Feedback is given to improve the project, not criticize individuals.
-
-Following these expectations helps maintain a positive experience for both contributors and maintainers.
-
----
-
 ## Getting Help
 
 If you are unsure about anything, comment on the issue before starting work.
