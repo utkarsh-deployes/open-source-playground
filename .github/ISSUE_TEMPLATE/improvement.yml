@@ -1,0 +1,18 @@
+name: Process or Structure Improvement
+description: Suggest improvements to contribution process or structure
+title: "[Improvement]: "
+labels: ["help wanted"]
+body:
+  - type: textarea
+    attributes:
+      label: Problem
+      description: Describe the problem or limitation
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Suggested Solution
+      description: Describe your proposed improvement
+    validations:
+      required: true
