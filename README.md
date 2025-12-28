@@ -55,7 +55,7 @@ open-source-playground/
     │       └── Template for process or structure improvements
     └── PULL_REQUEST_TEMPLATE.md
         └── Template to standardize Pull Requests
-
+```
 ---
 
 ## What You Can Contribute
