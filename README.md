@@ -23,23 +23,37 @@ The repository is organized to make contributions simple and discoverable, espec
 
 open-source-playground/
 │
-├── README.md                  # Project overview and getting started guide
-├── CONTRIBUTING.md             # Contribution rules and workflow
-├── CODE_OF_CONDUCT.md          # Community standards and behavior guidelines
+├── README.md
+│   └── Project overview and getting started guide
 │
-├── docs/                       # Core documentation content
-│   ├── getting-started.md      # Introduction to open source and this repository
-│   ├── git-and-github.md       # Basics of Git and GitHub workflows
-│   ├── how-to-raise-a-pr.md    # Step-by-step guide to opening a Pull Request
+├── CONTRIBUTING.md
+│   └── Contribution rules and workflow
+│
+├── CODE_OF_CONDUCT.md
+│   └── Community standards and behavior guidelines
+│
+├── docs/
+│   ├── getting-started.md
+│   │   └── Introduction to open source and this repository
+│   ├── git-and-github.md
+│   │   └── Basics of Git and GitHub workflows
+│   ├── how-to-raise-a-pr.md
+│   │   └── Step-by-step guide to opening a Pull Request
 │   ├── writing-good-commit-messages.md
-│   ├── oss-etiquette.md        # Open source communication and etiquette
-│   └── common-mistakes.md      # Common mistakes made by new contributors
+│   │   └── Best practices for clear commit messages
+│   ├── oss-etiquette.md
+│   │   └── Open source communication and etiquette
+│   └── common-mistakes.md
+│       └── Common mistakes made by new contributors
 │
 └── .github/
-    ├── ISSUE_TEMPLATE/         # GitHub issue templates
-    │   ├── documentation.yml   # Template for documentation-related issues
-    │   └── improvement.yml     # Template for process or structure improvements
-    └── PULL_REQUEST_TEMPLATE.md # Template to standardize Pull Requests
+    ├── ISSUE_TEMPLATE/
+    │   ├── documentation.yml
+    │   │   └── Template for documentation-related issues
+    │   └── improvement.yml
+    │       └── Template for process or structure improvements
+    └── PULL_REQUEST_TEMPLATE.md
+        └── Template to standardize Pull Requests
 
 ---
 
