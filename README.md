@@ -21,6 +21,7 @@ The repository also serves as a learning ground for understanding the **maintain
 
 The repository is organized to make contributions simple and discoverable, especially for first-time contributors.
 
+```text
 open-source-playground/
 │
 ├── README.md
